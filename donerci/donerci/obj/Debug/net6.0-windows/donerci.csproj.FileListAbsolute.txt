@@ -1,0 +1,17 @@
+C:\Users\emir_\source\repos\donerci\donerci\bin\Debug\net6.0-windows\donerci.exe
+C:\Users\emir_\source\repos\donerci\donerci\bin\Debug\net6.0-windows\donerci.deps.json
+C:\Users\emir_\source\repos\donerci\donerci\bin\Debug\net6.0-windows\donerci.runtimeconfig.json
+C:\Users\emir_\source\repos\donerci\donerci\bin\Debug\net6.0-windows\donerci.dll
+C:\Users\emir_\source\repos\donerci\donerci\bin\Debug\net6.0-windows\donerci.pdb
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.csproj.AssemblyReference.cache
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.Form1.resources
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.AssemblyInfo.cs
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.dll
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\refint\donerci.dll
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.pdb
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\donerci.genruntimeconfig.cache
+C:\Users\emir_\source\repos\donerci\donerci\obj\Debug\net6.0-windows\ref\donerci.dll
